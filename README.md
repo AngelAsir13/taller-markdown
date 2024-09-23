@@ -5,7 +5,7 @@ Prueba de markdown
 
 Esto es un [parrafo][2] dentro del otro encabezado
 
-## **Que poderio**
+## **Negrita**
 
 Ejecutamos `sudo sudo`
 
